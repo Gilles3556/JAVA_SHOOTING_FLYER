@@ -1,7 +1,7 @@
 # JAVA_SHOOTING_FLYER
 Une reprise du code sce trouvé sur ZETCODE, que vous pourrez trouver ICI: https://zetcode.com/javagames/movingsprites/.
 
-![screenshot](Capture.png)
+![screenshot](Capture.PNG)
 
 J'ai séparé les classes dites "métier" dans le package [model] et le classes dites "d'affichage" dans le package [ihm]. J'ai rajouté des Fabriques et mis en place le modèle MVP.
 
