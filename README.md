@@ -5,7 +5,7 @@ J'ai séparé les classes dites "métier" dans le package [model] et le classes 
 
 Les codes sources sont:
 
-    origines: dans le répertoire [com/zetcode]
+    origines: dans le répertoire [com.zetcode.shooting]
     mes sources : dans le répertoire[pndgV3]
     
  Les images sont dans le répertoire [ressources]
